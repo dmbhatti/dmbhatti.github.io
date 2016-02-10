@@ -1,0 +1,78 @@
+body
+{
+	font-family: Avenir Next;
+}
+h2 
+{
+	
+}
+
+p 
+{
+	
+}
+
+a 
+{
+	font-family: Avenir Next;
+	color: black;
+
+}
+
+.home-wrapper 
+{
+	margin-top: 5%;
+}
+
+.profileimg 
+{
+	margin-left: 32%;
+	border: solid;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 20px;
+}
+
+#Name 
+{
+	font-family: Avenir Next;
+	font-size: 30;
+	text-align: center;
+}
+
+.button-panel
+{
+	margin-top: 5%;
+}
+
+.button 
+{
+	border: solid;
+ 	border-color: black;
+ 	padding: 1% 2%;
+ 	margin-top: 5%;
+}
+.resumelink
+{
+	margin-left: 32%;
+}
+
+.biolink
+{
+	margin-left: 20%;
+	padding: 1% 3%;
+	
+}
+
+.homepagelink
+{
+	margin-top: 5%;
+	margin-left: 40%;
+}
+
+footer 
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
